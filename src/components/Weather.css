@@ -1,0 +1,26 @@
+.weatherbg{
+background: url('https://raw.githubusercontent.com/AkashPalve/Arbor-Email-Signature/main/360_F_461232389_XCYvca9n9P437nm3FrCsEIapG4SrhufP.jpg');
+height: 50vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.weatherresultbox{
+    margin: auto;
+    width: 500px;
+    height: 350px;
+}
+.weathorIcon{
+    margin-left: 200px;
+   
+width: 100px;
+height: 100px;
+margin-top: 2rem;
+}
+.weathercity{
+    margin-left: 220px;
+}
+.weathertemp{
+    margin-left: 220px;
+}
